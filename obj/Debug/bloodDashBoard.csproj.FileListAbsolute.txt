@@ -1,0 +1,13 @@
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\bin\Debug\bloodDashBoard.exe.config
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\bin\Debug\bloodDashBoard.exe
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\bin\Debug\bloodDashBoard.pdb
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.csproj.AssemblyReference.cache
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.Form1.resources
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.Properties.Resources.resources
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.csproj.GenerateResource.cache
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.csproj.CoreCompileInputs.cache
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.exe
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.pdb
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\bin\Debug\Guna.UI2.dll
+C:\Users\mh223\3D Objects\C SHARP\Blood\bloodDashBoard\obj\Debug\bloodDashBoard.csproj.CopyComplete
